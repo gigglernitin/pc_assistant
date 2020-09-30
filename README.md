@@ -1,4 +1,5 @@
-# pc_assistant
+# pc_assistant by Shibaayan
+# learn with me 
 All basic operations like 'play music', 'search google India!', 'search youtube sorting algorithm', 'Wikipedia computer', 'what is the time now?!' and so on will be executed on a finger-snap! I mean just by your voice command!
 
 how to run
